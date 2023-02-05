@@ -36,5 +36,5 @@ If you find our work useful for your research, please cite at:
     volume={}, number={},
     pages={635-640},
     organization={IEEE},
-    doi={10.1109/RIVF55975.2022.10013852}
-}`
+    doi={10.1109/RIVF55975.2022.10013852}}
+`
